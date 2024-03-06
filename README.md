@@ -1,5 +1,8 @@
 # Enjoy With ur Application
-<img
+<p><img src="/public/images/ss1.png" alt="image"/></p>
+<p><img src="/public/images/ss2.png" alt="image"/></p>
+<p><img src="/public/images/ss3.png" alt="image"/></p>
+
 
 
 
